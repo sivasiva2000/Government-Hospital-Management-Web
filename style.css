@@ -1,0 +1,72 @@
+ 
+#but{
+    color: red;
+}
+.dob{
+    background-color: rgb(0, 255, 255);
+}
+.you{
+    position: absolute;
+    width: 1340px;
+     
+    background-color:  black;
+    word-spacing: px;
+}
+#kll{
+    text-decoration: underline;
+    color: white;
+}
+ul{
+    color: white;
+}
+#edc{
+    color: blue;
+    font-size: 30px;
+
+}
+.ram{
+    text-align: center;
+    background-color:azure;
+    
+}
+h1{
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: super;
+    margin: 0 0 0 10px;    
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    text-align:justify;
+}
+
+.dff{
+    
+    width:  1320px;
+    height: 100px;
+}
+img{
+    padding-left:20px;
+    width: 620px;
+    border-spacing: 5px;
+    min-zoom: 10px;
+    text-align: center;
+}
+button{
+    background-color: rgb(159, 204, 37);
+    border-radius: 20px;
+    text-align: center;
+    font-size: 15px;
+    height: 30px;
+    
+ 
+}
+.zxc{
+    width: 80px;
+    
+}
+#asd{
+    width: 120px;
+}
